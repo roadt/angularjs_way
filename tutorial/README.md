@@ -11,7 +11,12 @@
   - To show how render repeat list of models(collection)
   - To show how view action/event reflect to model and model's view. (i.e. how to define controller)
 
+=== Projects
 
+  - To show how to define module in angularjs
+  - To show how to integerate a backend easily in angularjs
+  - To show how to use controller/view template with html file in angularjs
+  - To show how to Route path to controller
      
             
        
